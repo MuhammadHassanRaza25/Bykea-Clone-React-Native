@@ -71,7 +71,7 @@ export default function RootLayout() {
 
         <View style={styles.boxRow}>
           <Card title={"Shops"} icon={"shopping-bag"} iconColor={"#2196F3"} bgColor={"#D0EAFE"}/>
-          <Card title={"Carpool"} icon={"access-time-filled"} iconColor={"#F1D902"} bgColor={"#FDF8CD"}/>
+          <Card title={"Rentals"} icon={"access-time-filled"} iconColor={"#F1D902"} bgColor={"#FDF8CD"}/>
         </View>
       </View>
 
